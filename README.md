@@ -3,7 +3,7 @@
 ## 스크린샷
  
 ### 핸드폰 UI
-![Mobile UI](docs/screenshot_mobile.jpg)
+![Mobile UI](screenshot_mobile.png)
  
 
 TouchDesigner 프로젝션 맵핑용 코너핀 원격 제어.  
