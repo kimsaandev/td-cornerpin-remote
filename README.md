@@ -1,5 +1,11 @@
 # TD Corner Pin Remote
 
+## 스크린샷
+ 
+### 핸드폰 UI
+![Mobile UI](docs/screenshot_mobile.jpg)
+ 
+
 TouchDesigner 프로젝션 맵핑용 코너핀 원격 제어.  
 보조 모니터 없이 **핸드폰 브라우저**로 코너 4개를 실시간 조정합니다.
 
